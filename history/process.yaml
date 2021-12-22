@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE09OSSM-SBD11-06-METBKA000-telemetered-metbk_hourly
 data_stream: CE09OSSM-SBD11-06-METBKA000-telemetered-metbk_hourly
 end_date: '2021-12-06T22:34:59.292Z'
-last_updated: '2021-12-07T02:01:13.167171'
+last_updated: '2021-12-22T04:31:15.738481Z'
 start_date: '2015-04-09T17:30:08.236Z'
-status: success
+status: pending
