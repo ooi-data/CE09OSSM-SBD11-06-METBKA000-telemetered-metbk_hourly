@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: CE09OSSM-SBD11-06-METBKA000-telemetered-metbk_hourly
 last_request: '2022-01-21T03:15:03.803603Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-SBD11-06-METBKA000-telemetered-metbk_hourly/main/history/response.json
-status: pending
+status: success
